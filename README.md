@@ -1,16 +1,13 @@
-## Hi there 👋
+# Sebastián Sterling 
 
-<!--
-**SethSterling22/SethSterling22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just trying to bring something relevant to the world.
 
-Here are some ideas to get you started:
+- 💬 Ask me about Containers and Servers
+- 📫 How to reach me: xeb03sterling@protonmail.com
+- ⚡ Fun fact: I don't like to use GitHub :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Instagram](https://simpleicons.org/icons/instagram.svg)(https://www.instagram.com/official_sterling_o.o/)]
+[LinkedIn](https://www.linkedin.com/in/sebastian-sterling-a13998277/)
+[![Dockerhub](https://simpleicons.org/icons/docker.svg)(https://hub.docker.com/u/sethsterling)]
+[Basic Porfolio](https://aeryportfolio.wordpress.com/)
