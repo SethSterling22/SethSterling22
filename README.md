@@ -4,7 +4,7 @@ I'm just trying to bring something relevant to the world.
 
 - 💬 Ask me about Containers and Servers
 - 📫 How to reach me: xeb03sterling@protonmail.com
-- ⚡ Fun fact: I don't like to use GitHub :D
+- ⚡ Fun fact: I didn't like to use GitHub :D
 
 
 <p align="left">
