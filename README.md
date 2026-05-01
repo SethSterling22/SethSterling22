@@ -7,7 +7,8 @@ I'm just trying to bring something relevant to the world.<br><br>🔭 I’m curr
 
 
 ## 🌐 Socials:
-<p style="display: flex">
+
+<div style="display: flex !important;">
   <a href="https://www.linkedin.com/in/sebastian-sterling-a13998277/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3991/3991775.png" alt="LinkedIn" height="40" width="40">
   </a>&nbsp;&nbsp;&nbsp;
@@ -20,7 +21,7 @@ I'm just trying to bring something relevant to the world.<br><br>🔭 I’m curr
   <a href="https://aeryportfolio.wordpress.com/" target="_blank">
     <img src="https://aeryportfolio.wordpress.com/wp-content/uploads/2024/02/sin-titulo-1_mesa-de-trabajo-1-1-edited.png" alt="Portfolio" height="40" width="40">
   </a>
-</p>
+</div>
 
 
 ## 💻 Tech Stack:
