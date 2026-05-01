@@ -8,7 +8,7 @@ I'm just trying to bring something relevant to the world.<br><br>🔭 I’m curr
 
 ## 🌐 Socials:
 
-<p align="left">
+<p style="display: flex;" align="left">
   <a href="https://www.linkedin.com/in/sebastian-sterling-a13998277/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3991/3991775.png" alt="LinkedIn" height="40" width="40">
   </a>&nbsp;&nbsp;&nbsp;
